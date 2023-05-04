@@ -1,0 +1,29 @@
+{
+  "textureAtlas": {
+    "texture": "fire.png",
+    "regionWidth": 32,
+    "regionHeight": 32
+  },
+  "cycles": {
+    "nord": {
+      "frames": [57,58,59],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "sud": {
+      "frames": [93,94,95],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "est": {
+      "frames": [81,82,83],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "ouest": {
+      "frames": [69,70,71],
+      "isLooping": false,
+      "frameDuration": 0.2
+    }
+  }
+}
